@@ -7,6 +7,7 @@ Helping students & data professionals to get an insight into the data job market
 
 ## How to read
 View Data_Jobs_Cleanup.ipynb to view code for the cleaning of data
+
 View graphing-project-1.ipynb to view code for vizualizations 
 
 ## DATA
