@@ -1,3 +1,30 @@
+
+# Jobs in Data
+
+## Objective
+
+Helping students & data professionals to get an insight into the data job market to make informed job decisions based on locations, salary and job satisfaction
+
+# Part 1 - Cleaning
+
+
+For this project our group decided to analyze the tornado occurrences in the U. S since 1950, and build a machine learning model to predict tornado category (EF scale).
+
+Overall, the number of tornado occurrences has been increasing and presumably will keep increasing, due to the changing weather patterns in the United States and elsewhere.
+
+### Research Question
+
+How have tornadoes changed over the past seven decades and measure their impact in United States?
+
+## Data sources
+
+
+Part 2 - Analysis
+
+
+
+
+
 Project for BCS bootcamp
 
 Here is our presentation link
