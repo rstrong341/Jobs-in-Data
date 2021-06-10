@@ -21,24 +21,22 @@ Data Engineer: https://www.kaggle.com/andrewmvd/data-engineer-jobs
 
 
 # Part 1 - Cleaning
-Dataset:
 
 ![](https://github.com/rstrong341/Jobs-in-Data/blob/main/images/data.PNG)
 ![](https://github.com/rstrong341/Jobs-in-Data/blob/main/images/data2.PNG)
 
 ### Challenges
-1.
-2.
-3.
-4.
-5.
-6.
-7.
+1. Combine all three datasets
+2. Use .split to remove unwanted characters ('K', '()', '\n', '$', '-')
+3. Remove outlier values
+4. Convert datatypes
+5. Parsing the job title column to extract the needed job titles for analysis
+6. Remove NANs
+7. Use keywords to consolidate all jobs that had to do with data science/data engineer/data analyst into one universal name
 
 # Part 2 - Analysis
 
-
-
+After cleanign our data we wanted to take the data and create representative stories that give students a clear understanding of their most pressing questions on the data job market.
 ![](https://github.com/rstrong341/Jobs-in-Data/blob/main/images/Graphs1.PNG)
 
 ![](https://github.com/rstrong341/Jobs-in-Data/blob/main/images/graph2.PNG)
@@ -49,7 +47,7 @@ Dataset:
 
 
 
-Project for BCS bootcamp
+# Part 3 - Presetation
 
 Here is our presentation link
 https://docs.google.com/presentation/d/1ftooYn1mEywfzkT4kyeiWyUoOGdNpYsHznh5B2TwwXY/edit?usp=sharing
