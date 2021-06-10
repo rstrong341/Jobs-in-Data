@@ -1,6 +1,6 @@
 
 # Jobs in Data
-
+![](https://github.com/rstrong341/Jobs-in-Data/blob/main/images/Ven_Diagram.PNG)
 ## Objective
 
 Helping students & data professionals to get an insight into the data job market to make informed job decisions based on locations, salary and job satisfaction
@@ -22,7 +22,7 @@ Data Engineer: https://www.kaggle.com/andrewmvd/data-engineer-jobs
 
 # Part 2 - Analysis
 
-![](https://github.com/rstrong341/Jobs-in-Data/blob/main/images/Ven_Diagram.PNG)
+
 
 ![](https://github.com/rstrong341/Jobs-in-Data/blob/main/images/Graphs1.PNG)
 
