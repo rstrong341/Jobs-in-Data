@@ -8,3 +8,9 @@ First notebook is for cleanup (Data_Jobs_Analysis_and_Visualization)
 
 
 Second notebook is for vizualizations (Data_Jobs_Cleanup)
+
+Data Analyst: https://www.kaggle.com/andrewmvd/data-analyst-jobs
+
+Data Scientist: https://www.kaggle.com/andrewmvd/data-scientist-jobs
+
+Data Engineer: https://www.kaggle.com/andrewmvd/data-engineer-jobs
