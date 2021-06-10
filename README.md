@@ -13,9 +13,9 @@ First notebook is for cleanup (Data_Jobs_Analysis_and_Visualization)
 
 ![](https://github.com/rstrong341/Jobs-in-Data/blob/main/images/graph2.PNG)
 
-![](https://github.com/rstrong341/Jobs-in-Data/blob/main/images/Graphs3.PNG)
+![](https://github.com/rstrong341/Jobs-in-Data/blob/main/images/graph3.PNG)
 
-![](https://github.com/rstrong341/Jobs-in-Data/blob/main/images/Graphs4.PNG)
+![](https://github.com/rstrong341/Jobs-in-Data/blob/main/images/graph4.PNG)
 
 
 
