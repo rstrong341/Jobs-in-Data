@@ -21,7 +21,19 @@ Data Engineer: https://www.kaggle.com/andrewmvd/data-engineer-jobs
 
 
 # Part 1 - Cleaning
+Dataset:
 
+![](https://github.com/rstrong341/Jobs-in-Data/blob/main/images/data.PNG)
+![](https://github.com/rstrong341/Jobs-in-Data/blob/main/images/data2.PNG)
+
+### Challenges
+1.
+2.
+3.
+4.
+5.
+6.
+7.
 
 # Part 2 - Analysis
 
