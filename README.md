@@ -8,7 +8,18 @@ First notebook is for cleanup (Data_Jobs_Analysis_and_Visualization)
 
 
 
+![](https://github.com/rstrong341/Jobs-in-Data/blob/main/images/Ven_Diagram.PNG)
 ![](https://github.com/rstrong341/Jobs-in-Data/blob/main/images/Graphs1.PNG)
+
+![](https://github.com/rstrong341/Jobs-in-Data/blob/main/images/graph2.PNG)
+
+![](https://github.com/rstrong341/Jobs-in-Data/blob/main/images/Graphs3.PNG)
+
+![](https://github.com/rstrong341/Jobs-in-Data/blob/main/images/Graphs4.PNG)
+
+
+
+
 
 
 
