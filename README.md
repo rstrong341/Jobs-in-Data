@@ -13,7 +13,9 @@ View graphing-project-1.ipynb to view code for vizualizations
 All data was scraped from Glassdoor and published to Kaggle
 
 Data Analyst: https://www.kaggle.com/andrewmvd/data-analyst-jobs
+
 Data Scientist: https://www.kaggle.com/andrewmvd/data-scientist-jobs
+
 Data Engineer: https://www.kaggle.com/andrewmvd/data-engineer-jobs
 
 
