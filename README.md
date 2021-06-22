@@ -1,9 +1,10 @@
 
 # Jobs in Data
 ![](https://github.com/rstrong341/Jobs-in-Data/blob/main/images/Ven_Diagram.PNG)
-## Objective
 
-Helping students & data professionals to get an insight into the data job market to make informed job decisions based on locations, salary and job satisfaction
+## Summary
+The goal of this report was to help students & data professionals gain insight into the data job market to make informed job decisions based on locations, salary and job satisfaction.  To accomplish this we found data webscrapped from glassdoor and cleaned it into a more manipulatable dataset.  After that, we took a close look our data using vizulaization tools such as Matplotlib, Seaborn and Plotly.
+
 
 ## How to read
 View Data_Jobs_Cleanup.ipynb to view code for the cleaning of data
